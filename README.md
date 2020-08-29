@@ -1,3 +1,7 @@
+2020/08/30
+Realized visualizing data in a given time range.
+Accelerated the program.
+
 2020/08/29
 All program files have been one file draw_map.py.
 Removed all the hardcoding part. Now users can use command line arguments to input files.
